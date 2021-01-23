@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<--**justbaominh/justbaominh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+// **justbaominh/justbaominh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently studying at Vaasa University of Applied Science.
