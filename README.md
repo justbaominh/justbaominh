@@ -1,2 +1,2 @@
-Automation Engineer @ Wartsila Finland
+
 
